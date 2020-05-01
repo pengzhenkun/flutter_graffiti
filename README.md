@@ -19,6 +19,9 @@
 * Flutter 基于 Provider 插件的状态管理实现
 * 简单的实现 WebSocket 通讯（真实项目考虑的问题要更多，比如心跳，重连，网络波动处理等）
 
+掘金：https://juejin.im/post/5eaa7d38f265da7bbe421004
+简书：https://www.jianshu.com/p/18f8682b01a9
+
 ## 最终效果
 三屏实时同步
 ![](https://user-gold-cdn.xitu.io/2020/4/30/171ca25d168fa574?w=1440&h=1080&f=png&s=2165776)
